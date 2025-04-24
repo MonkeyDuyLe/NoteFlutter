@@ -7,7 +7,7 @@
       "priority": 1,
       "createdAt": "2025-04-08T10:00:00Z",
       "modifiedAt": "2025-04-08T10:00:00Z",
-      "tags": "sample, MonKey",
+      "tags": " MonKey",
       "color": "#FF0000"
     },
     {
@@ -17,7 +17,7 @@
       "priority": 2,
       "createdAt": "2025-04-08T12:00:00Z",
       "modifiedAt": "2025-04-08T12:00:00Z",
-      "tags": "example",
+      "tags": "TrisDogMsn",
       "color": "#00FF00"
     }
   ]
